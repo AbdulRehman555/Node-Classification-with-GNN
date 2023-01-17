@@ -1,6 +1,9 @@
 # dataset
 data/
 gnnexplainer_cora.ipynb
+test.ipynb
+gnn_env_libs.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
